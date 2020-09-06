@@ -21,14 +21,14 @@
   * Int: -2pts
   * 300-399 passing yards: 2pt bonus
   * 400+ passing yards: additional 1pt bonus
-  * 50+ yard passing td: 2pt bonus
+  * 40+ yard passing td: 2pt bonus
 * Rushing
   * 10 rushing yards per point
   * Rushing TD: 6pts
   * Fumble (defense recovers): -2pts
   * 100-199 rushing yards: 2pt bonus
   * 200+ rushing yards: additional 2pt bonus
-  * 50+ yard rushing td: 2pt bonus
+  * 40+ yard rushing td: 2pt bonus
 * Receiving 
   * PPR: 1/2pt
   * 10 receiving yards per point
@@ -36,7 +36,7 @@
   * Fumble (defense recovers): -2
   * 100-199 receiving yards: 2pt bonus
   * 200+ receiving yards: additional 2pt bonus
-  * 50+ yard receiving td: 2pt bonus
+  * 40+ yard receiving td: 2pt bonus
   * TE Premium (TE position receives an extra 0.5 points per reception)
 * 2-Point Conversion: 2pts
 * Waivers: FAAB (1000)
