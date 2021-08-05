@@ -3,16 +3,21 @@
 ## League Configuration
 * Teams: 12	
 * Divisions: None	
-* Cost: $25
+* Cost: $50
 * Draft Order: Results from last season	
 * Rivalry Week: Week 3
-* Keepers: None
+* Keepers: 1
+  * Keeper takes the draft position they were drafted the year prior. 
+  * Must be drafted in the 8th round or later. 
+  * Cannot be kept back to back years. 
+  * Cannot be undrafted. 
 
 ## Payout
-* First: $200
-* Second: $50
-* Regular Season Winner: $50	
+* First: $400
+* Second: $100
+* Regular Season Winner: $100	
 * Last: Sacko (New punishment is voted on each year)
+  * If no punishment is given prior to start of the next season, the sacko is spared.
 
 ## Scoring
 * Passing
@@ -45,7 +50,8 @@
 * Teams: 6		
 
 ## Draft Order
-* (7th – 12th, 5th, 6th, 3rd, 4th, 2nd, 1st) 
+* (7th – 12th, 5th, 6th, 3rd, 4th, 2nd, 1st)
+* 1st pick gets first selection of a horse in the Kentucky Derby. Result of derby determines draft order. 
 
 ## Other
 * Teams will receive 1 point for a win and 1 point for scoring above the league median. 
