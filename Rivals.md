@@ -1,8 +1,11 @@
 # Rivals
 
-- Ryan vs Zach
-- Drew vs Stose 
+### Inner Division
+- Brock vs Kyle
 - Cam vs Nunner
 - Carter vs Kevin
-- Brock vs Kyle
 - Dietz vs Matt
+
+### Opposing Division
+- Drew vs Dico 
+- Ryan vs Zach
