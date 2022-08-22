@@ -4,7 +4,6 @@
 * Teams: 12	
 * Divisions: None	
 * Cost: $50
-* Draft Order: Results from last season	
 * Rivalry Week: Week 3
 * Keepers: 1
   * Keeper takes the draft position they were drafted the year prior. 
@@ -17,7 +16,7 @@
 * Second: $100
 * Regular Season Winner: $100	
 * Last: Sacko (New punishment is voted on each year)
-  * If no punishment is given prior to start of the next season, the sacko is spared.
+  * Sacko is removed from the league until the punishment has been completed.
 
 ## Scoring
 * Passing
@@ -55,7 +54,7 @@
 
 ## Other
 * Teams will receive 1 point for a win and 1 point for scoring above the league median. 
-* Schedule – 13th game will rotate each year based on final league standings
+* Schedule – one game verse each team (11 games). Inner division rival (1 game). Outer division rival (1 game). Play member of the opposing division based on previous year's regular season result (1 game). 
 
 ### Collusion is prohibited! 
 
