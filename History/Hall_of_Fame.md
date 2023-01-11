@@ -2,5 +2,5 @@
 
 Team|Number of Rings
 ----|---------------
-Zach Balsinger|2
+Zach Balsinger|3
 Zach Nunner|1
