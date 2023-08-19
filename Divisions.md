@@ -7,6 +7,7 @@
 - Kevin
 - Krep
 - Ryan
+- Nate
 
 ### Southeast
 - Balsinger
@@ -15,3 +16,4 @@
 - Drew
 - Matt
 - Nunner
+- Sam
