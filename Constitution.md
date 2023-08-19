@@ -2,7 +2,7 @@
 
 ## League Configuration
 * Teams: 12	
-* Divisions: None	
+* Divisions: 2	
 * Cost: $50
 * Rivalry Week: Week 3
 * Keepers: 1
