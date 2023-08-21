@@ -1,7 +1,7 @@
 # FantAssy Football Official Constitution
 
 ## League Configuration
-* Teams: 12	
+* Teams: 14	
 * Divisions: 2	
 * Cost: $50
 * Rivalry Week: Week 3
