@@ -49,7 +49,7 @@
 * Teams: 7		
 
 ## Draft Order
-* (7th – 12th, 5th, 6th, 3rd, 4th, 2nd, 1st)
+* (8th – 12th, 3rd, 4th, 5th, 6th, 7th, 2nd, 1st, 13th, 14th)
 * 1st pick gets first selection of a horse in the Kentucky Derby. Result of derby determines draft order.
 
 ## Division Competition
