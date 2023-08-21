@@ -12,7 +12,7 @@
   * Cannot be undrafted. 
 
 ## Payout
-* First: $400
+* First: $500
 * Second: $100
 * Regular Season Winner: $100	
 * Last: Sacko (New punishment is voted on each year)
@@ -21,7 +21,7 @@
 ## Scoring
 * Passing
   * 25 passing yards per point
-  * Passing TD: 4pts
+  * Passing TD: 6pts
   * Int: -2pts
   * 300-399 passing yards: 2pt bonus
   * 400+ passing yards: additional 1pt bonus
@@ -46,15 +46,23 @@
 * Waivers: FAAB (1000)
 
 ## Playoffs
-* Teams: 6		
+* Teams: 7		
 
 ## Draft Order
 * (7th – 12th, 5th, 6th, 3rd, 4th, 2nd, 1st)
-* 1st pick gets first selection of a horse in the Kentucky Derby. Result of derby determines draft order. 
+* 1st pick gets first selection of a horse in the Kentucky Derby. Result of derby determines draft order.
+
+## Division Competition
+* Baseball
+* 9 innings
+* Points are awarded to the winning division on rivalry week (week 3) based on win margin.
+* No limit to the bonus. Bonus impacts everything (median, lowest scorer, etc..)
+* The bottom of the 9th is played even if the home team is leading.
 
 ## Other
 * Teams will receive 1 point for a win and 1 point for scoring above the league median. 
-* Schedule – one game verse each team (11 games). Inner division rival (1 game). Outer division rival (1 game). Play member of the opposing division based on previous year's regular season result (1 game). 
+* Schedule – one game verse each team (13 games). One gamve verse rival (1 game).
+* If a game is cancelled or ends prematurely the fantasy results are final.
 
 ### Collusion is prohibited! 
 
