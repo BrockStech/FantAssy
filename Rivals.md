@@ -3,8 +3,8 @@
 ### Opposing Division
 - Brock vs Matt
 - Cam vs Krep
-- Carter vs Nunner
+- Justyn vs Nunner
 - Dietz vs Kevin
-- Drew vs Dico 
+- Tre vs Dico 
 - Ryan vs Evan
 - Nate vs Sam
