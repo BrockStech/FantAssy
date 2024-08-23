@@ -50,7 +50,7 @@
 
 ## Draft Order
 * (8th – 12th, 3rd, 4th, 5th, 6th, 7th, 2nd, 1st, 13th, 14th)
-* 1st pick gets first selection of a horse in the Kentucky Derby. Result of derby determines draft order.
+* 1st pick gets first selection in compettion (i.e horse in the Kentucky Derby). Result determines draft order.
 
 ## Division Competition
 * Baseball
