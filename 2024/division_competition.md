@@ -3,7 +3,7 @@
 
 |       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |FINAL
 |-------|---|---|---|---|---|---|---|---|---|---|
-| Downs | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 
-| Tism  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 
+| Downs | 0 | 4 | 2 | 4 | 1 | 4 | 0 | 0 | 5 | 20 
+| Tism  | 4 | 1 | 4 | 3 | 1 | 8 | 0 | 8 | 1 | 30 
 
-_ division won _ to _. Awarded _ points during rivalry week.
+Tism division won 30 to 20. Awarded 10 points during rivalry week.
