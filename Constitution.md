@@ -28,6 +28,7 @@
   * 40+ yard passing td: 2pt bonus
 * Rushing
   * 10 rushing yards per point
+  * 1/2pt per first down
   * Rushing TD: 6pts
   * Fumble (defense recovers): -2pts
   * 100-199 rushing yards: 2pt bonus
@@ -35,6 +36,7 @@
   * 40+ yard rushing td: 2pt bonus
 * Receiving 
   * PPR: 1/2pt
+  * 1/2pt per first down
   * 10 receiving yards per point
   * Receiving TD: 6pts
   * Fumble (defense recovers): -2
@@ -63,6 +65,7 @@
 * Teams will receive 1 point for a win and 1 point for scoring above the league median. 
 * Schedule – one game verse each team (13 games). One gamve verse rival (1 game).
 * If a game is cancelled or ends prematurely the fantasy results are final.
+* League winner picks draft order contest/event for next season. If league winner leaves the league the second place team selects.. etc.
 
 ### Collusion is prohibited! 
 
