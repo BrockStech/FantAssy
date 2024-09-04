@@ -10,9 +10,9 @@
 - Ryan
 
 ### Southeast
-- Balsinger
 - Cam
 - Dietz
+- Evan
 - Matt
 - Nunner
 - Sam
