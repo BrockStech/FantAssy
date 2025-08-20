@@ -51,8 +51,7 @@
 * Teams: 7		
 
 ## Draft Order
-* (8th – 12th, 3rd, 4th, 5th, 6th, 7th, 2nd, 1st, 13th, 14th)
-* 1st pick gets first selection in compettion (i.e horse in the Kentucky Derby). Result determines draft order.
+* Reigning champion decides how draft order is determined.
 
 ## Division Competition
 * Baseball
