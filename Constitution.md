@@ -8,6 +8,7 @@
 * Keepers: 1
   * Keeper takes the draft position they were drafted the year prior. 
   * Must be drafted in the 8th round or later. 
+    * Starting 2026: rounds 1-7 are also eligible.
   * Cannot be kept by the same person back to back years. 
   * Cannot be undrafted. 
 
