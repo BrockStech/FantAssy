@@ -2,7 +2,6 @@
 
 ### Northwest
 - Brock
-- Dico
 - Justyn
 - Kevin
 - Krep
@@ -12,8 +11,7 @@
 ### Southeast
 - Cam
 - Dietz
-- Evan
 - Matt
 - Nunner
 - Sam
-- Tre
+- Dico
