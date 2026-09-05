@@ -5,6 +5,5 @@
 - Cam vs Krep
 - Justyn vs Nunner
 - Dietz vs Kevin
-- Tre vs Dico 
-- Ryan vs Evan
+- Ryan vs Dico 
 - Nate vs Sam
