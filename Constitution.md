@@ -1,24 +1,22 @@
 # FantAssy Football Official Constitution
 
 ## League Configuration
-* Teams: 14	
+* Teams: 12
 * Divisions: 2	
 * Cost: $50
 * Rivalry Week: Week 3
 * Keepers: 1
   * Keeper takes the draft position they were drafted the year prior. 
-  * Must be drafted in the 8th round or later. 
-    * Starting 2026: rounds 1-7 are also eligible.
+  * All drafted players are eligible.
+  * Does not need to have been drafted by the team keeping them.
   * Cannot be kept by the same person back to back years. 
   * Cannot be undrafted. 
 
 ## Payout
-* First: $500
+* First: $450
 * Second: $100
-* Regular Season Winner: $100	
-* Last: Sacko (New punishment is voted on each year)
-  * Sacko is removed from the league until the punishment has been completed.
-
+* Regular Season Winner: $50
+  
 ## Scoring
 * Passing
   * 25 passing yards per point
@@ -49,7 +47,7 @@
 * Waivers: FAAB (1000)
 
 ## Playoffs
-* Teams: 7		
+* Teams: 6		
 
 ## Draft Order
 * Reigning champion decides how draft order is determined.
